@@ -1,0 +1,17 @@
+# Build files
+build/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+
+# OpenCV temporary files
+*.bin
+*.cache
